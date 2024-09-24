@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eShopOnWeb-trainingjonathanwpurvis
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: 0a42087e-ae79-4ab7-bff0-7856277b8d25
   WEBAPP-NAME: eshoponweb-webapp-jonathanwpurvis
 
 
